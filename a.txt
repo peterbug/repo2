@@ -18,3 +18,6 @@ this 3 times modify
 branch master modify times 4
 
 branch a1 modify times 2
+
+master modify times 5
+
