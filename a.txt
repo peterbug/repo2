@@ -16,3 +16,5 @@ this 3 times modify
 >>>>>>> master
 
 branch master modify times 4
+
+branch a1 modify times 2
