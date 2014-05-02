@@ -7,4 +7,10 @@ d
 
 e
 
+<<<<<<< HEAD
 branch a1 modify times 1
+=======
+this 2 times modify
+
+this 3 times modify
+>>>>>>> master
